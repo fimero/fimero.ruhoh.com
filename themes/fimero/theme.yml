@@ -1,0 +1,23 @@
+{
+  "stylesheets" : {
+    "default" : [
+      "bootstrap.css",
+      "style.css"
+    ],
+   
+    "widgets" : {
+      "google_prettify" : "twitter-bootstrap.css"
+    }
+    
+  },
+
+  "javascripts" : {
+    "default" : [
+    ]
+  },
+  
+  "manifest" : {
+    "author" : "Norman Kabir",
+    "website" : "http://fimero.ruhoh.com"
+  }
+}
